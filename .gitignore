@@ -16,3 +16,7 @@
 
 # binary
 debug
+
+
+# ci
+.travis.yml
